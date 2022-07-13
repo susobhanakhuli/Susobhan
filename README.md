@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... email at attitudecoolhotboy@gmail.com
+- 📫 How to reach me ... email at susobhanakhuli8537@gmail.com
 
 <!---
 Subho17/Subho17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
