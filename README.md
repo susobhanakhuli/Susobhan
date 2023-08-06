@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subho17
+- 👋 Hi, I’m @Susobhan Akhuli
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
